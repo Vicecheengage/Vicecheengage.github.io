@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vicecheengage.github.io/sitemap.xml
